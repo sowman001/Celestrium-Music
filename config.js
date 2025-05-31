@@ -3,7 +3,7 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["1378096858433323098", ""], 
   mongodbUri : "mongodb+srv://Celestrium:@akronY1598@celestrium.zugchpe.mongodb.net/?retryWrites=true&w=majority&appName=Celestrium",
   spotifyClientId : "",
   spotifyClientSecret : "",
