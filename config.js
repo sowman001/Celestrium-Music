@@ -20,7 +20,7 @@ module.exports = {
       name: "Celestrium",
       password: "@akronY1598",
       host: "5.39.63.207",
-      port:  8262,
+      port:  18012,
       secure: false
     }
   ]
