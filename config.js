@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://Celestrium:@akronY1598@celestrium.zugchpe.mongodb.net/?retryWrites=true&w=majority&appName=Celestrium",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
@@ -17,8 +17,8 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
+      name: "Celestrium",
+      password: "@akronY1598",
       host: "5.39.63.207",
       port:  8262,
       secure: false
