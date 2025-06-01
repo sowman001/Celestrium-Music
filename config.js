@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
      {
       name: "Celestrium",
-      password: "@akronY1598",
-      host: "5.39.63.207",
-      port:  18012,
+      password: "akrony",
+      host: "160.191.77.60",
+      port:  3986,
       secure: false
     }
   ]
