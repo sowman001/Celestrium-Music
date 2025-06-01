@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1378096858433323098", ""], 
-  mongodbUri : "mongodb+srv://Celestrium:@akronY1598@celestrium.zugchpe.mongodb.net/?retryWrites=true&w=majority&appName=Celestrium",
+  mongodbUri : "mongodb+srv://akrony:akrony@cluster0.kmf8s84.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
